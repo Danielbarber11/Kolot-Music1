@@ -1,0 +1,22 @@
+{
+  "id": "artist_track_1794421314017",
+  "name": "Velvet_Floor",
+  "artistName": "דניאל ברבר",
+  "albumName": "סינגל עצמאי",
+  "duration": 180,
+  "audioUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/audio/artist_track_1794421314017.mp3",
+  "coverUrl": "https://cdn.jsdelivr.net/gh/Danielbarber11/Kolot-Music1@main/covers/artist_track_1794421314017.jpg",
+  "genre": "ללא סגנון מוזיקלי",
+  "license": "Kolot Music Cloud Storage (1GB)",
+  "licenseUrl": "https://audius.co",
+  "source": "Kolot Cloud Storage",
+  "legalStatus": "100% שיר עצמאי מקורי ומאושר להאזנה",
+  "artistBio": "אמן עצמאי בפלטפורמת Kolot Music",
+  "artistAvatarUrl": "https://lh3.googleusercontent.com/a/ACg8ocLPoMwkQYsr2-L12X219YqVXHXoWVjyGfokKmVGS3OPvKd5Uw=s96-c",
+  "publisherAccountUrl": "https://audius.co",
+  "uploadedByUid": "mGqc9DtqyifXw2VpGAKlwhmNFws2",
+  "uploadedByEmail": "danielbarber1246@gmail.com",
+  "isPrivate": false,
+  "bgColor": "radial-gradient(circle at 50% 35%, rgba(31, 214, 80, 0.65) 0%, rgba(6, 39, 14, 0.96) 55%, #030712 100%)",
+  "isAiGenerated": true
+}
